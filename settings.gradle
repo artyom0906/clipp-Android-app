@@ -1,0 +1,2 @@
+rootProject.name='clipp'
+include ':app'
